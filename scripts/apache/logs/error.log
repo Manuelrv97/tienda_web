@@ -1,0 +1,8 @@
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.64.4. Set the 'ServerName' directive globally to suppress this message
+[Mon Mar 14 12:00:14.359889 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.51 (Debian) PHP/7.4.27 configured -- resuming normal operations
+[Mon Mar 14 12:00:14.360019 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Mar 14 12:00:19.205165 2022] [autoindex:error] [pid 17] [client 2.139.242.136:31024] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Mar 14 12:02:18.576653 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.64.4. Set the 'ServerName' directive globally to suppress this message
+[Mon Mar 14 12:02:24.102589 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.51 (Debian) PHP/7.4.27 configured -- resuming normal operations
+[Mon Mar 14 12:02:24.102686 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
